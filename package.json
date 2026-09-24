@@ -1,0 +1,20 @@
+{
+  "name": "campuseats-task-tracker",
+  "version": "1.0.0",
+  "description": "Simple task tracker for the CampusEats Lab 8 exercise.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Deneshkar/campuseats-task-tracker.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Deneshkar/campuseats-task-tracker/issues"
+  },
+  "homepage": "https://github.com/Deneshkar/campuseats-task-tracker#readme"
+}
